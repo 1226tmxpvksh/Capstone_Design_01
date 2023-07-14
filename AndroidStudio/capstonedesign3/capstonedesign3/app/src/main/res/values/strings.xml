@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">capstone design</string>
+    <string name="cleaning_time">청소 시작한지 얼만큼 됐는지</string>
+    <string name="cleaning_cleaning">청소 중지</string>
+    <string name="Complain_Improvements">개선사항</string>
+    <string name="Complain_ImprovementsWrite">쓰고싶은 내용을 쓰세요</string>
+    <string name="Complain_Regards">건의사항</string>
+    <string name="Complain_RegardsWrite">쓰고싶은 내용을 쓰세요</string>
+    <string name="Setting_alarm">알람설정</string>
+    <string name="Setting_alarm1">알람켜기/끄기</string>
+    <string name="Setting_complain">문의사항</string>
+    <string name="Setting_reset">초기화</string>
+    <string name="Setting_information">기기정보</string>
+    <string name="Setting_information1">ㅇㅇㅇㅇ</string>
+    <string name="Setting_manual">설명서</string>
+    <string name="Setting_manual1">ㅐㅐㅐㅐ</string>
+    <string name="Alarm_Alarm">현재 집을 비우셨습니다. 청소를 시작하시겠습니까?</string>
+    <string name="Alarm_Yes">예</string>
+    <string name="Alarm_No">아니요</string>
+    <string name="Alarm_time">따로 시간 지정</string>
+    <string name="cancel">취소</string>
+    <string name="apply">적용</string>
+</resources>

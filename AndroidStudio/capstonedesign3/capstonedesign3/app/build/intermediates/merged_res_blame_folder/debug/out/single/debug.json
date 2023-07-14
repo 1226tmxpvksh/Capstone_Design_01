@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "com.example.capstonedesign.app-merged_res-5:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.capstonedesign.app-main-7:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.capstonedesign.app-merged_res-5:/layout_timer.xml.flat",
+        "source": "com.example.capstonedesign.app-main-7:/layout/timer.xml"
+    },
+    {
+        "merged": "com.example.capstonedesign.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.capstonedesign.app-main-7:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.capstonedesign.app-merged_res-5:/layout_complain.xml.flat",
+        "source": "com.example.capstonedesign.app-main-7:/layout/complain.xml"
+    },
+    {
+        "merged": "com.example.capstonedesign.app-merged_res-5:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.capstonedesign.app-main-7:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.capstonedesign.app-merged_res-5:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.capstonedesign.app-main-7:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.capstonedesign.app-merged_res-5:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.capstonedesign.app-main-7:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.capstonedesign.app-merged_res-5:/layout_calender.xml.flat",
+        "source": "com.example.capstonedesign.app-main-7:/layout/calender.xml"
+    },
+    {
+        "merged": "com.example.capstonedesign.app-merged_res-5:/layout_cleaning.xml.flat",
+        "source": "com.example.capstonedesign.app-main-7:/layout/cleaning.xml"
+    },
+    {
+        "merged": "com.example.capstonedesign.app-merged_res-5:/xml_backup_rules.xml.flat",
+        "source": "com.example.capstonedesign.app-main-7:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.capstonedesign.app-merged_res-5:/drawable-v24_setting.png.flat",
+        "source": "com.example.capstonedesign.app-main-7:/drawable-v24/setting.png"
+    },
+    {
+        "merged": "com.example.capstonedesign.app-merged_res-5:/drawable_button_style.xml.flat",
+        "source": "com.example.capstonedesign.app-main-7:/drawable/button_style.xml"
+    },
+    {
+        "merged": "com.example.capstonedesign.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.capstonedesign.app-main-7:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.capstonedesign.app-merged_res-5:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.capstonedesign.app-main-7:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.capstonedesign.app-merged_res-5:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.capstonedesign.app-main-7:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.capstonedesign.app-merged_res-5:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.capstonedesign.app-main-7:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.capstonedesign.app-merged_res-5:/layout_setting.xml.flat",
+        "source": "com.example.capstonedesign.app-main-7:/layout/setting.xml"
+    },
+    {
+        "merged": "com.example.capstonedesign.app-merged_res-5:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.capstonedesign.app-main-7:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.capstonedesign.app-merged_res-5:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.capstonedesign.app-main-7:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.capstonedesign.app-merged_res-5:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.capstonedesign.app-main-7:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.capstonedesign.app-merged_res-5:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.capstonedesign.app-main-7:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.capstonedesign.app-merged_res-5:/layout_activity_main.xml.flat",
+        "source": "com.example.capstonedesign.app-main-7:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.capstonedesign.app-merged_res-5:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.capstonedesign.app-pngs-0:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.capstonedesign.app-merged_res-5:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.capstonedesign.app-main-7:/mipmap-xhdpi/ic_launcher.webp"
+    }
+]

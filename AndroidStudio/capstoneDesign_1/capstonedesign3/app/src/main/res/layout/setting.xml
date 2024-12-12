@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scrollbars="vertical">
+
+        <LinearLayout
+            android:id="@+id/Setting_linearLayout1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TimePicker
+                android:id="@+id/Setting_Timepicker1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:timePickerMode="spinner"></TimePicker>
+            <DatePicker
+                android:id="@+id/Setting_Datepicker1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:datePickerMode="spinner"></DatePicker>
+
+            <Button
+                android:id="@+id/Setting_Alram"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/Setting_alarm"></Button>
+            <RadioGroup
+                android:id="@+id/Setting_Alram1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <RadioButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/Setting_alarm1"></RadioButton>
+            </RadioGroup>
+            <Button
+                android:id="@+id/Setting_Complain"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/Setting_complain"></Button>
+
+            <Button
+                android:id="@+id/Setting_Reset"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/Setting_reset"></Button>
+
+            <Button
+                android:id="@+id/Setting_Information"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/Setting_information"></Button>
+            <TextView
+                android:id="@+id/Setting_Information1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/Setting_information1"></TextView>
+            <Button
+                android:id="@+id/Setting_Manual"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/Setting_manual"></Button>
+            <TextView
+                android:id="@+id/Setting_Manual1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/Setting_manual1"></TextView>
+
+        </LinearLayout>
+    </ScrollView>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <Button
+            android:id="@+id/Setting_Cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/cancel"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentBottom="true"/>
+
+        <Button
+            android:id="@+id/Setting_Apply"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/apply"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"/>
+    </RelativeLayout>
+</LinearLayout>

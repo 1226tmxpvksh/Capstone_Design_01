@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/Complain_Improvements"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="50dp"
+        android:text="@string/Complain_Improvements"/>
+    <EditText
+        android:id="@+id/Complain_ImprovementsWrite"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/Complain_RegardsWrite"></EditText>
+
+    <TextView
+        android:id="@+id/Complain_Regards"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="50dp"
+        android:text="@string/Complain_Regards"/>
+    <EditText
+        android:id="@+id/Complain_RegardsWrite"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/Complain_RegardsWrite"></EditText>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <Button
+            android:id="@+id/Complain_Cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/cancel"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentBottom="true"/>
+
+        <Button
+            android:id="@+id/Complain_Apply"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/apply"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"/>
+    </RelativeLayout>
+
+
+
+
+
+</LinearLayout>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+        <Button
+            android:id="@+id/Clean_start"
+            android:text="청소시작"
+            android:textSize="50dp"
+            android:layout_alignParentTop="true"
+            android:layout_width="300dp"
+            android:layout_height="200dp"
+            android:layout_margin="40dp"></Button>
+        <Button
+            android:id="@+id/Clean_reservation"
+            android:text="청소예약"
+            android:textSize="50dp"
+            android:layout_below="@+id/Clean_start"
+            android:layout_width="300dp"
+            android:layout_height="200dp"
+            android:layout_margin="40dp"></Button>
+        <!--이미지 버튼은 혼자서 바닦에 위치가 안되어서 따로 리니어 레이아웃으로 싸줌-->
+
+        <ImageButton
+            android:id="@+id/Clean_setting"
+            android:layout_below="@+id/Clean_reservation"
+            android:background="#FFFFFF"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/setting"
+            ></ImageButton>
+
+
+
+
+
+
+
+
+</RelativeLayout>
